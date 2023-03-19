@@ -74,7 +74,7 @@ n=2
 
 #MQTT Cayenne setup - you will need your own username, password and clientid
 #To setup a Cayenne account go to https://mydevices.com/cayenne/signup/
-username = "XXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXX"
+username = "XXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXX"
 password = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 clientid = "XXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX"
 mqttc=mqtt.Client(client_id = clientid)
